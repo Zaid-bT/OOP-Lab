@@ -1,34 +1,4 @@
 
-Conversation opened. 2 messages. All messages read.
-
-Skip to content
-Using NUCES-FAST Mail with screen readers
-
-35 of 1,431
-(no subject)
-Inbox
-
-k241027 Noman Ali
-AttachmentsFeb 21, 2025, 10:15 AM (6 days ago)
- 
-
-k240789 Zaid Bin Tariq <k240789@nu.edu.pk>
-Attachments
-Feb 21, 2025, 10:25 AM (6 days ago)
-to k240784, k240772
-
-
----------- Forwarded message ---------
-From: k241027 Noman Ali <k241027@nu.edu.pk>
-Date: Fri, 21 Feb 2025, 10:15 am
-Subject:
-To: <k240789@nu.edu.pk>
-
-
-
-
- 3 Attachments
-  •  Scanned by Gmail
 #include <iostream>
 #include <string>
 #include <vector>
@@ -131,5 +101,4 @@ int main(int argc, char* argv[]){
 
     return 0;
 }
-Question3.cpp
-Displaying Question3.cpp.
+
